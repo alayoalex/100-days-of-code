@@ -2,9 +2,9 @@
 
 ## Programming
 
-### Python
-### Algorithms
-### Data Structures
+#### Python
+#### Algorithms
+#### Data Structures
 
 - Docs:
     1. [GeeksForGeeks](https://www.geeksforgeeks.org/)
@@ -18,12 +18,12 @@
 
 ## Web Development
 
-### Frontend
+#### Frontend
     1. HTML & HTML5
     2. CSS & Bootstrap
     3. JavaScript & JQuery
 
-### Backend
+#### Backend
     1. Django
     2. Django REST Framework
 
@@ -36,10 +36,10 @@
 
 ## Hard Topics
 
-### Scraping Web
-### Mining Social Web
-### Machine Learning
-### Neural Networks
+#### Scraping Web
+#### Mining Social Web
+#### Machine Learning
+#### Neural Networks
 
 - Docs
     1. [RealPython](https://realpython.com/)
