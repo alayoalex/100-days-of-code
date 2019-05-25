@@ -9,9 +9,9 @@
     1. [GeeksForGeeks](https://www.geeksforgeeks.org/)
     2. [freeCodeCamp](https://learn.freecodecamp.org/)
     3. [RealPython](https://realpython.com/)
-    4. [HackerRank](https://www.hackerrank.com/domains)
+    4. [HackerRank](https://www.hackerrank.com/)
     5. [DevDocs](http://devdocs.io/)
-    6. [Book: The Python Tutorial](https://www.python.org/)
+    6. [Python Official Docs](https://www.python.org/)
     7. [PyCoders](https://pycoders.com/)
     8. Book: Mastering basic algorithms in python programming language.    
 
