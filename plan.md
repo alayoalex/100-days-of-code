@@ -26,7 +26,7 @@
 
 - Docs
     1. [W3Schools](http://www.w3schools.com/)
-    2. [freeCodeCamp]((https://learn.freecodecamp.org/))
+    2. [freeCodeCamp](https://learn.freecodecamp.org/)
     3. [Django Docs](https://devdocs.io/django~2.1-guides/)
     4. [RealPython](https://realpython.com/)
     5. [Django REST Framework](https://www.django-rest-framework.org/)
