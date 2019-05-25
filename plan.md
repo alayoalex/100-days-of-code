@@ -1,9 +1,10 @@
 # This is my plan to #100DaysOfCode Challenge
 
 ## Programming
-* Python
-* Algorithms
-* Data Structures
+
+### Python
+### Algorithms
+### Data Structures
 
 - Docs:
     1. [GeeksForGeeks](https://www.geeksforgeeks.org/)
@@ -16,11 +17,13 @@
     8. Book: Mastering basic algorithms in python programming language.    
 
 ## Web Development
-* Frontend
+
+### Frontend
     1. HTML & HTML5
     2. CSS & Bootstrap
     3. JavaScript & JQuery
-* Backend
+
+### Backend
     1. Django
     2. Django REST Framework
 
@@ -32,10 +35,11 @@
     5. [Django REST Framework](https://www.django-rest-framework.org/)
 
 ## Hard Topics
-* Scraping Web
-* Mining Social Web
-* Machine Learning
-* Neural Networks
+
+### Scraping Web
+### Mining Social Web
+### Machine Learning
+### Neural Networks
 
 - Docs
     1. [RealPython](https://realpython.com/)
