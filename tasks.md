@@ -1,7 +1,7 @@
 # Tasks
 
 ## I will to focuss in:
-1. Python programming, Algorithms, How to do several stuff.
+1. Python programming, Algorithms, How to do several stuffs.
 2. Web programming, frontend and backend development.
 
 #### To Do: Python programming
