@@ -1,10 +1,10 @@
 # #100DaysOfCode Log - Round 1 - Alexei Alayo Rondón
 
-The log of my #100DaysOfCode challenge. Started on [June 7, Friday, 2017].
+The log of my #100DaysOfCode challenge. Started on [June 10, Monday, 2019].
 
 ## Log
 
-### R1 Day 1: June 7, Friday
+### R1 Day 1: June 10, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
