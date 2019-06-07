@@ -5,9 +5,9 @@
 2. Web programming, frontend and backend development.
 
 #### To Do: Python programming
-1. Review basics topics that I have learned through last days. State [_]
+1. Review basics topics that I have learned through last days. State [x]
 2. Review and study tutorials waiting from realpython.com and pycoders.com. State [_]
-3. Review and study some scripts waiting. State [_]
+3. Review and study some scripts waiting. State [x]
 4. Study some articles from geeksforgeeks.com. State [_]
 5. Study first chapter from book "Mastering Basic Algorithms in Python Programming Language". State [_]
 6. To do some example. Working with files and folders in python. "Bible text manipulating". 
