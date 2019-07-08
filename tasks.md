@@ -10,7 +10,7 @@
 3. Review and study some waiting scripts. State [x]
 4. Study some [5] articles from geeksforgeeks.com. State [_]
 5. Study the first chapter from "Mastering Basic Algorithms in Python Programming Language". State [_]
-6. To do some example. Working with files and folders in python. "Bible text manipulating". State [_]
+6. To do some example. Working with files and folders in python. "MLB Data Analysis". State [_]
 
 ## To Do: Web programming
 1. CSS & Bootstrap in w3shools.com. State [_]
