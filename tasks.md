@@ -1,8 +1,8 @@
 # Tasks
 
 ## I will to focuss in:
-####. Python programming, Algorithms, How to do several stuffs.
-####. Web programming, frontend and backend development.
+#### Python programming, Algorithms, How to do several stuffs.
+#### Web programming, frontend and backend development.
 
 ## To Do: Python programming
 1.[d] Review basics topics that I have learned through last days.
@@ -19,6 +19,14 @@
 4.[t] To Built my first web page project, that is my personal blog at GitHub Pages.
 5.[t] Review and study tutorials waiting from realpython.com and pycoders.com.
 
+#### Meaning
 [t]: To Do it.
 [d]: Doing it.
 [f]: Finished it.
+
+#### More Tasks
+1. Hacer web site riosdegloria.org, casavelazquez.com, cubanstars.com, barosoft.com.
+2. Implementar primeras cinco tareas del curso de Machine Learning de Coursera en Python.
+3. Ver primeras tres clases del curso de Machine Learning de Stanford CS229.
+4. Instalar Lichess.
+5. Hipótesis de Riemann. LaTeX
