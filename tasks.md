@@ -29,4 +29,5 @@
 2. Implementar primeras cinco tareas del curso de Machine Learning de Coursera en Python.
 3. Ver primeras tres clases del curso de Machine Learning de Stanford CS229.
 4. Instalar Lichess.
-5. Hipótesis de Riemann. LaTeX
+5. Hipótesis de Riemann. LaTeX.
+6. AirBnB de la tia de Handy. posible password:jorgeluis83
