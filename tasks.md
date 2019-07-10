@@ -25,8 +25,8 @@
 [f]: Finished it.
 
 #### More Tasks
-1. Hacer web site riosdegloria.org, casavelazquez.com, cubanstars.com, barosoft.com.
+1. Hacer web site riosdegloria.org, casavelazquez.com, cubanstars.com, [BaroSoft](http://alayoalex.github.io). Heroku, GitHub Pages, dominio, hosting.
 2. Implementar primeras cinco tareas del curso de Machine Learning de Coursera en Python.
 3. Ver primeras tres clases del curso de Machine Learning de Stanford CS229.
 4. Instalar Lichess.
-5. Hipótesis de Riemann. LaTeX
+5. HipÃ³tesis de Riemann. LaTeX
