@@ -7,7 +7,7 @@ URL (Uniform Resource Locator)
 URN (Universal Resource Name)
 RPC (Remote Procedure Calls) 
 LTS (Long-Term Support)
-RTL (Righ To Left, escritura árabe y hebrea)
+RTL (Righ To Left, escritura ï¿½rabe y hebrea)
 SOLID ()
 tty device
 prompt
